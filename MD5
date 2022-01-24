@@ -1,4 +1,4 @@
-50f1f039a08694223532dd75303adf3d *DESCRIPTION
+136638c752b5ffcbfa3db4b91fa68f41 *DESCRIPTION
 b0ea2f3f09c1e57164b17de09309a20d *NAMESPACE
 7447e13f2c486bcd0a0f628b7a473b26 *R/allele1.R
 556e01c609ff98fcb510eabe36902e76 *R/convert_probs.R
@@ -22,17 +22,17 @@ e6dd3be8e63655fd77eb489cc9c173a5 *R/nqrank.R
 e5ff2c92b3e5903ccc4e2ef2ca5ebcdb *R/read_fast.R
 d7e219be496bf89152df3d366a314be0 *R/read_probs.R
 97448f54f9a057f1b5f868cf0425908e *R/read_probs_calc.R
-e45b91d150c7c81ccb67cd23e98196cf *R/read_probs_fast.R
+b8ade02bb8eaa7395e4a6db3ea5bb090 *R/read_probs_fast.R
 57c1dc73eb42f80a9c05b9beae112fbc *R/scan1pattern.R
-fe153f1a28fa93b8252b2fc0fd2beb76 *R/sdp_to_pattern.R
+ac17d9e29330590ce87083b44e63f7a2 *R/sdp_to_pattern.R
 4186fa3d04ec67acf416b40b6942fdbb *R/snpinfo_to_haplos.R
 d5c8461e7a84676a1848ca56c4afd5fd *R/snpinfo_to_map.R
 bb9553cfc59fdd39a0e5286b1dd0fdb4 *R/snpprob_collapse.R
 cadfb4d80cf7d04bd533adaabe940251 *R/top_snps_pattern.R
-7cbefc8f296514c3c7824ffe34d73464 *build/vignette.rds
+f96295579bbac94e065e58f7ca9d4a67 *build/vignette.rds
 6baa98c9c76ad0fc58ce1eaa72563fb3 *inst/doc/qtl2pattern.R
 efcf243be3d4b961474680b1fe360e83 *inst/doc/qtl2pattern.Rmd
-f9fdd00f1f2110640d7ce5cd44656034 *inst/doc/qtl2pattern.html
+f6a0aa4864b51e009369b5d20fbeceb0 *inst/doc/qtl2pattern.html
 e807b941c53210286c8ec2a9df295d35 *inst/scripts/depends.Rmd
 8d7e295b2bbafcc071a86081d1e09679 *inst/scripts/depends.html
 2b3dbb4aa762eb975cac90441b941ec0 *inst/scripts/scan_qtl.Rmd
@@ -52,7 +52,7 @@ be7c376c22809ccd4c8882f20c7ebaf2 *man/pattern_label.Rd
 6e1a71a8dc02f656c82d87adc26cad49 *man/read_fast.Rd
 5b97e78a7438c3c29b7c1624a30b5d66 *man/read_probs.Rd
 2f7b0090f7fab943dc7a214206e1f4a4 *man/scan1pattern.Rd
-dc448b6eb865a619f7d8477543d77c24 *man/sdp_to_pattern.Rd
+b35e605927dc8dfa90db9e131f0bf94a *man/sdp_to_pattern.Rd
 3528c9d9b522707478293a37c9661037 *man/snpinfo_to_map.Rd
 3261c649786756e1a788c461f2de694b *man/snpprob_collapse.Rd
 dc296e3f830750ff457e0705f76aa85a *man/top_snps_pattern.Rd
